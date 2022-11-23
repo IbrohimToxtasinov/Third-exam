@@ -7,8 +7,6 @@ import 'package:third_exam/utils/route.dart';
 class MyRouter {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
-    //   case productsScreen:
-    //     return MaterialPageRoute(builder: (_) => const Paroducts());
       case cartScreen:
         return MaterialPageRoute(
           builder: (_) => const CartPage(),

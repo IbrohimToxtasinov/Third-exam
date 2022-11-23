@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:third_exam/data/models/local/local_databese.dart';
 import 'package:third_exam/data/models/main/cached.dart';
-import 'package:third_exam/screens/main_page.dart';
 
 class CartProduct extends StatelessWidget {
   final ProductModel model;

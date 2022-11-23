@@ -1,10 +1,3 @@
-// "id":1,
-//      "category_id":1,
-//      "name":"Macbook",
-//       "price":1200,
-//      "image_url":"https://e7.pngegg.com/pngimages/765/477/png-clipart-macbook-macbook.png",
-//       "description":"Bu description bo'ladi"
-
 class ProductFields {
   static String id = "id";
   static String count = "count";

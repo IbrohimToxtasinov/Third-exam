@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:third_exam/routes.dart';
 import 'package:third_exam/screens/main_page.dart';
-import 'package:third_exam/utils/route.dart';
 
 void main() {
   runApp(const MyApp());
